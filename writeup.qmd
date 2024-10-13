@@ -1,9 +1,9 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of Psychology of Personal Data Donation (2019, PLOS ONE)"
+author: "William de Melo (wdemelo@ucsd.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
-  html:
+  pdf:
     toc: true
     toc_depth: 3
 ---
@@ -12,11 +12,9 @@ format:
 
 ## Introduction
 
-### William de Melo 
-
 My choice for the replication project is Skatova and Goulding's Psychology of personal data donation.
 
-This study stood out to me as an open source project with a topical and interesting subject matter. The purpose of the study is to find both whether people were willing to donate their personal data to benefit research, and why they would. To do this, Skatova and Goulding administer a battery of questions and perform factor analyses on the results. This kind of research is especially important because it focuses on the ethics of a new kind of data collection; of harvesting data collected from people simply going about their daily lives. In the study, the researchers ask participants if they would give their supermarket loyalty card data. This kind of data is very naturalistic and widely available, and could transform the way we conduct research, but we should understand why people would donate their data and make sure to collect it in the right way. It is also especially valuable that this study was conducted in the UK, since a replication in the US will allow us to see if their results hold up in a different culture.
+This study stood out to me as an open source project with a topical and interesting subject matter. The purpose of the study is to find whether people were willing to donate their personal data to benefit research as well as their reasons for doing so. This kind of research is especially important because it focuses on the motives and ethics of a new kind of data collection; of harvesting data collected from people simply going about their daily lives. For instance, in the study, the researchers ask participants if they would give their supermarket loyalty card data. This kind of data is very naturalistic and widely available, and could transform the way we conduct research, but we should understand why people would donate their data first to ensure these donations are ethical. Additionally, if they are ethical, we should then consider ways to promote the donation of data for research.
 
 The instruments used by the researchers are:
 
@@ -26,11 +24,11 @@ The instruments used by the researchers are:
 
 -   The Self-Report Altruism Scale (20 items), which has participants report the frequency at which they help others,
 
--   The Interpersonal Reactivity Index (28 items), which records ones capacities in various areas, and
+-   The Interpersonal Reactivity Index (28 items), which records one's capacities in various social areas, and
 
 -   Goldberg's 35 bipolar markers, to measure the Big Five personality traits.
 
-A big challenge of this replication will be learning how to conduct factor analyses in order to determine why people would donate their data.
+Analyses utilized in this study included hypothesis testing (chi-squared, F) to assess the differences between conditions and demographics, factor analyses on the results to establish themes behind why people would donate, and linear regression to determine the predictive power of the Reasons for Data Donation scale on willingness to donate. Of these analyses, the biggest hurdle of this replication will be learning how to conduct factor analyses. Additionally, it may be difficult to sustain participants' interest using such a lengthy battery of questions. However, I believe that in two months' time, this replication could feasibly be conducted.
 
 Repository link: <https://github.com/willdemelo/skatova2019>
 
